@@ -186,3 +186,4 @@ function randomChosenColour() {
       audio.play();
     }, 5000);
   });
+}
